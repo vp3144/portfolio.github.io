@@ -1,0 +1,27 @@
+.send_mes {
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #494d4f);
+  background-image: -moz-linear-gradient(top, #ffffff, #494d4f);
+  background-image: -ms-linear-gradient(top, #ffffff, #494d4f);
+  background-image: -o-linear-gradient(top, #ffffff, #494d4f);
+  background-image: linear-gradient(to bottom, #ffffff, #494d4f);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  text-shadow: 4px 3px 3px #666666;
+  font-family: Georgia;
+  color: #f2f2f2;
+  font-size: 19px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.send_mes:hover {
+  background: #494d4f;
+  background-image: -webkit-linear-gradient(top, #494d4f, #ffffff);
+  background-image: -moz-linear-gradient(top, #494d4f, #ffffff);
+  background-image: -ms-linear-gradient(top, #494d4f, #ffffff);
+  background-image: -o-linear-gradient(top, #494d4f, #ffffff);
+  background-image: linear-gradient(to bottom, #494d4f, #ffffff);
+  text-decoration: none;
+}]
